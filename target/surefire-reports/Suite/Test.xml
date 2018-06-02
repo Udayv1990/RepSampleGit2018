@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="NARESH-PC" name="SampleMaven.SampleGit.SampleClsA" tests="3" failures="0" timestamp="2 Jun 2018 17:09:04 GMT" time="0.092" errors="0">
+  <testcase name="f1" time="0.064" classname="SampleMaven.SampleGit.SampleClsA"/>
+  <testcase name="f1" time="0.0" classname="SampleMaven.SampleGit.SampleClsB"/>
+  <testcase name="f2" time="0.001" classname="SampleMaven.SampleGit.SampleClsB"/>
+</testsuite>
