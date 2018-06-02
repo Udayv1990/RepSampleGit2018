@@ -14,4 +14,10 @@ public class SampleClsB {
 	  System.out.println("Sample Class B --f2");
 	  Assert.assertTrue(true);
   }
+  
+  @Test
+  public void f3() {
+	  System.out.println("Sample Class B --f3");
+	  Assert.assertTrue(false);
+  }
 }
